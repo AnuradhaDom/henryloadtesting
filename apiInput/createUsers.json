@@ -1,0 +1,7 @@
+{
+        "userName": "Pooja",
+        "email": "anuradhathorat2023@example.com",
+        "password": "123456789",
+        "active": true,
+        "roles": "ROLE_USER"
+}
